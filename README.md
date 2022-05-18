@@ -1,6 +1,6 @@
 # Frequenzzähler
 
-![freqZ](https://user-images.githubusercontent.com/94011180/148918586-18557163-da52-483b-81dc-bf96efdbdaee.png)
+![freqZ](vhdl.gif)
 
 ### Ziel:
 
